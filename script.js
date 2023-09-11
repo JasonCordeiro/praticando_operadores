@@ -56,4 +56,5 @@ console.log(salarioLiquido)
 let horasTrabalhadas = 40
 let valorHora = 50
 
-let bruto = horasTrabalhadas * valorHoraconsole.log(bruto) 
+let bruto = horasTrabalhadas * valorHora
+console.log(bruto) 
